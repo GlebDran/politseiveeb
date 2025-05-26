@@ -25,10 +25,4 @@
 
 ![Снимок экрана 2025-05-26 134657](https://github.com/user-attachments/assets/997b6817-7a5b-4c76-aa16-496b59ce82d4)
 
-## 🚀 Käivitamine (XAMPP)
-
-1. Impordi `phpMyAdmin` kaudu SQL-struktuur ja andmed
-2. Aseta failid kausta `htdocs/PolitseiVeeb`
-3. Ava `http://localhost/PolitseiVeeb/login2.php`
-
 ## 🔗 Link https://glebdranitson24.thkit.ee/content/PolitseiVeeb/login2.php
